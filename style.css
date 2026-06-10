@@ -1,0 +1,108 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, sans-serif;
+}
+
+body{
+    background:#dfe8f0;
+}
+
+.bilowga{
+    width:80%;
+    margin:20px auto;
+    background:white;
+    box-shadow:0 0 15px pink;
+}
+
+header{
+    background:#0058b8;
+    text-align:center;
+    padding:40px 20px;
+}
+
+header h1{
+    color:white;
+    font-size:55px;
+    text-shadow:4px 4px 3px red;
+}
+
+.sub-title{
+    width:90%;
+    margin:20px auto;
+    padding:15px;
+    color:white;
+    background:#4e83c2;
+    border-radius:25px;
+    box-shadow:0 0 10px white;
+}
+
+.main{
+    display:flex;
+}
+
+.xeebta{
+    width:25%;
+    background:#d8e8f8;
+    padding:20px;
+    border-right:4px dashed #1b5fbf;
+}
+
+.xeebta h2{
+    text-align:center;
+    margin-bottom:15px;
+}
+
+.xeebta hr{
+    border:2px dashed #003b80;
+    margin-bottom:20px;
+}
+
+.xeebta ul{
+    list-style:none;
+}
+
+.xeebta ul li{
+    background:white;
+    margin:15px 0;
+    padding:15px;
+    border:3px dotted blue;
+    border-radius:10px;
+    font-weight:bold;
+    box-shadow:4px 4px 10px red;
+}
+
+.buuraha{
+    width:75%;
+    padding:25px;
+}
+
+.buuraha h2{
+    color:#003b80;
+    border-bottom:4px solid #1b5fbf;
+    padding-bottom:10px;
+    margin-bottom:20px;
+}
+
+.sanduuqa{
+    background:#eef4fb;
+    padding:20px;
+    margin-bottom:25px;
+    border:3px solid #1b5fbf;
+    border-radius:20px;
+    box-shadow:6px 6px 12px rgba(255,0,0,0.5);
+}
+
+.sanduuqa h3{
+    color:#1d2d7a;
+    margin-bottom:15px;
+}
+
+footer{
+    background:#0058b8;
+    color:white;
+    text-align:center;
+    padding:20px;
+    letter-spacing:2px;
+}
